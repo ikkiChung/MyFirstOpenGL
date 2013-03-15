@@ -1,7 +1,7 @@
 MyFirstOpenGL
 =============
 
-How to use OpenGL in Android phone
+Example of how to use OpenGL in Android phone
 
 
 This article  teaches how to use OpenGL in Android phone.
